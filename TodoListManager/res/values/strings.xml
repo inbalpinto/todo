@@ -4,5 +4,12 @@
     <string name="app_name">TodoListManager</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+ 	
+ 	<string name="menu_Add">Add</string>
+    <string name="menu_Delete">Delete Item</string>
+    <string name="menu_Call">Call</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="parseApplication">kpUOhCAbJ9sZzCDjJCALsQv0riKj6LYRVjvWSdAN</string>
+    <string name="clientKey">ybjQgDRFHhVfm94O10pIRpysxJmwSBSc688uGWzl</string>
 </resources>
